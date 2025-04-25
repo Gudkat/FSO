@@ -5,7 +5,6 @@ This is a repository for exercise submissions for the Full Stack Online Course i
 
 1. [part0](#part0)
 2. [part1](#part1)
-3. [part2](#part2)
 
 
 ## part0
@@ -18,7 +17,3 @@ This is a repository for exercise submissions for the Full Stack Online Course i
 - [course information (1.1-1.5)](https://github.com/Gudkat/FSO/tree/master/part1/1.5)
 - [unicafe feedback (1.6-1.11)](https://github.com/Gudkat/FSO/tree/master/part1/1.11)
 - [anecdotes (1.12-1.14)](https://github.com/Gudkat/FSO/tree/master/part1/1.14)
-
-## part2
-- [course information (2.1-2.5)](https://github.com/Gudkat/FSO/tree/master/part1/2.5)
-- [phonebook (2.6-2.10)](https://github.com/Gudkat/FSO/tree/master/part1/2.10)
